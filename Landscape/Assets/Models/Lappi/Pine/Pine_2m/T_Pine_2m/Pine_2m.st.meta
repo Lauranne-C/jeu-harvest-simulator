@@ -1,0 +1,79 @@
+fileFormatVersion: 2
+guid: b994f64e38ecac94e885b6907726415a
+SpeedTreeImporter:
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Manty_taimi1m_LOD0
+    second: {fileID: 2100000, guid: 48120d95ed9fdad40b795815f801955d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Manty_taimi1m_LOD1
+    second: {fileID: 2100000, guid: d77e9a399dd9a1e459057daea39b9da7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Manty_taimi1m_LOD2
+    second: {fileID: 2100000, guid: b3b77581040d0ab43a037e5fdde149f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pine_2m_LOD0
+    second: {fileID: 2100000, guid: a11ce7a11d0705442baacdb7858f706d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pine_2m_LOD1
+    second: {fileID: 2100000, guid: a711732f6fd8d0b409e46f902938605e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pine_2m_LOD2
+    second: {fileID: 2100000, guid: 0f338d7a2e058084eb1c059fd6091aad, type: 2}
+  serializedVersion: 6
+  mainColor: {r: 1, g: 1, b: 1, a: 1}
+  hueVariation: {r: 1, g: 1, b: 1, a: 0.1}
+  alphaTestRef: 0.33
+  bestWindQuality: 4
+  hasBillboard: 0
+  lODSettings:
+  - height: 0.6035651
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 1
+    reflectionProbeUsage: 1
+    enableBump: 1
+    enableHue: 0
+    enableSubsurface: 0
+    windQuality: 4
+  - height: 0.5039284
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 0
+    reflectionProbeUsage: 1
+    enableBump: 1
+    enableHue: 0
+    enableSubsurface: 0
+    windQuality: 1
+  - height: 0
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 0
+    reflectionProbeUsage: 1
+    enableBump: 0
+    enableHue: 0
+    enableSubsurface: 0
+    windQuality: 1
+  enableSmoothLODTransition: 1
+  animateCrossFading: 1
+  billboardTransitionCrossFadeWidth: 0.25
+  fadeOutWidth: 0.25
+  scaleFactor: 1
+  materialVersion: 3
+  materialLocation: 1
+  fileIDType: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

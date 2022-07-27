@@ -1,0 +1,79 @@
+fileFormatVersion: 2
+guid: e7667a879e7b1004da6c7bc575c73098
+SpeedTreeImporter:
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_17m_H_LOD0
+    second: {fileID: 2100000, guid: b686fa668bfd61445bb147df04832696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_17m_H_LOD1
+    second: {fileID: 2100000, guid: 8256498ed1137d64ba734f869c06946b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_17m_H_LOD2
+    second: {fileID: 2100000, guid: 9abfa5b5cac6a014f98e4e8f9947650c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_cluster_LOD0
+    second: {fileID: 2100000, guid: aeda38970e5e11445ac3c37deb50b96c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_cluster_LOD1
+    second: {fileID: 2100000, guid: 2eb6b169aeb6ed94eb049f198b68fbf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_cluster_LOD2
+    second: {fileID: 2100000, guid: e3498a0a0a7e451409db7469b22d340b, type: 2}
+  serializedVersion: 6
+  mainColor: {r: 1, g: 1, b: 1, a: 1}
+  hueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
+  alphaTestRef: 0.33
+  bestWindQuality: 1
+  hasBillboard: 0
+  lODSettings:
+  - height: 0.60354996
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 0
+    reflectionProbeUsage: 1
+    enableBump: 1
+    enableHue: 0
+    enableSubsurface: 0
+    windQuality: 1
+  - height: 0.4968967
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 0
+    reflectionProbeUsage: 1
+    enableBump: 0
+    enableHue: 0
+    enableSubsurface: 0
+    windQuality: 1
+  - height: 0
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 0
+    reflectionProbeUsage: 1
+    enableBump: 0
+    enableHue: 0
+    enableSubsurface: 0
+    windQuality: 1
+  enableSmoothLODTransition: 1
+  animateCrossFading: 1
+  billboardTransitionCrossFadeWidth: 0.25
+  fadeOutWidth: 0.25
+  scaleFactor: 1
+  materialVersion: 3
+  materialLocation: 1
+  fileIDType: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
